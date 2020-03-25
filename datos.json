@@ -1,0 +1,149 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Pepe",
+      "groupId": 16,
+      "cityId": 2
+    },
+    {
+      "name": "asd",
+      "email": "asd@asd.com",
+      "sexo": "Mujer",
+      "cityId": "1",
+      "groupId": "16",
+      "id": 2
+    },
+    {
+      "name": "wwww",
+      "email": "qqq@asd.com",
+      "sexo": "Hombre",
+      "cityId": "1",
+      "groupId": "16",
+      "id": 3
+    },
+    {
+      "name": "asdasd",
+      "email": "asd@asd.com",
+      "sexo": "Hombre",
+      "cityId": "2",
+      "groupId": "9",
+      "id": 4
+    },
+    {
+      "name": "asdasd",
+      "email": "ewerwerw",
+      "sexo": "Mujer",
+      "cityId": "2",
+      "groupId": "11",
+      "id": 5
+    },
+    {
+      "name": "aaa",
+      "email": "fff@asd.com",
+      "sexo": "Mujer",
+      "cityId": "2",
+      "groupId": "8",
+      "id": 6
+    },
+    {
+      "name": "David Lopez",
+      "email": "dlopezsalinas152@gmail.com",
+      "sexo": "Mujer",
+      "cityId": "1",
+      "groupId": "12",
+      "id": 7
+    },
+    {
+      "name": "tt",
+      "email": "tt@asd.com",
+      "sexo": "Mujer",
+      "cityId": "3",
+      "groupId": "9",
+      "id": 8
+    },
+    {
+      "name": "rr",
+      "email": "rr@asd.com",
+      "sexo": "Mujer",
+      "cityId": "3",
+      "groupId": "8",
+      "id": 9
+    }
+  ],
+  "groups": [
+    {
+      "name": "asd",
+      "professorId": "2",
+      "id": 8
+    },
+    {
+      "name": "David Lopez",
+      "professorId": "2",
+      "id": 9
+    },
+    {
+      "name": "davidpruebasIphone",
+      "professorId": "2",
+      "id": 10
+    },
+    {
+      "name": "asd",
+      "professorId": "1",
+      "id": 11
+    },
+    {
+      "name": "asdasd",
+      "professorId": "3",
+      "id": 12
+    },
+    {
+      "name": "davidpruebasIphone",
+      "professorId": "3",
+      "id": 13
+    },
+    {
+      "name": "asd",
+      "professorId": "2",
+      "id": 14
+    },
+    {
+      "name": "keyboardProvicional",
+      "professorId": "1",
+      "id": 15
+    },
+    {
+      "name": "a-49",
+      "professorId": "3",
+      "id": 16
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Havana"
+    },
+    {
+      "id": 2,
+      "name": "Lima"
+    },
+    {
+      "id": 3,
+      "name": "Barcelona"
+    }
+  ],
+  "professors": [
+    {
+      "id": 1,
+      "name": "Julio"
+    },
+    {
+      "id": 2,
+      "name": "David"
+    },
+    {
+      "id": 3,
+      "name": "Magdy"
+    }
+  ]
+}
